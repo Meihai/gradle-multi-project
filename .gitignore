@@ -1,0 +1,9 @@
+# 屏蔽当前目录下面所有文件
+/*
+#追踪文件
+!app
+!core
+!.gitignore
+!README.*
+!build.gradle
+!settings.gradle
